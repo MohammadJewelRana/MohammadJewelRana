@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development, particularly using the MERN stack.
 - 🌱 I’m currently expanding my skills in TypeScript and advanced backend technologies.
 - 💞️ I’m looking to collaborate on open-source projects or innovative web applications.
-- 📫 How to reach me: You can connect with me via LinkedIn or reach out through my email.
+- 📫 How to reach me: You can connect with me through my email (js.rana0326@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I enjoy exploring new places and capturing memories with my camera!
 
