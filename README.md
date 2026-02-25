@@ -25,6 +25,12 @@ I focus on writing clean, maintainable code and building systems that are optimi
 
 ✨ Passionate about building impactful digital products and continuously improving as an engineer.
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-jewel-rana-05808b273) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:js.rana0326@gmail.com) 
 
