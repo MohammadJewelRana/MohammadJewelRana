@@ -1,3 +1,29 @@
+# 💫 Hi 👋, I'm MD. Jewel Rana  
+### 🚀 Full Stack Developer | MERN • Next.js • NestJS • PostgreSQL • React Native  
+
+📍 Mirpur, Dhaka, Bangladesh  
+📧 js.rana0326@gmail.com  
+
+---
+
+## 💻 About Me  
+
+I am a results-driven Full Stack Developer with strong expertise in building scalable, secure, and production-ready web and mobile applications.
+
+Currently working as a Junior Full Stack Developer, I design and develop high-performance full-stack systems, architect secure RESTful APIs, and implement authentication & authorization using JWT and RBAC with PostgreSQL and MongoDB.
+
+I focus on writing clean, maintainable code and building systems that are optimized for performance, scalability, and real-world use.
+
+### 🚀 Production Experience  
+
+- 🛒 Built a full-stack Rental E-commerce Platform with Admin Panel & Appointment Scheduling System  
+- 📱 Developed and published a React Native mobile application on the Google Play Store  
+- 🏢 Developed responsive Corporate & Enterprise Business Platforms  
+- ⚙️ Engineered scalable backend APIs using NestJS, Prisma, PostgreSQL & MongoDB  
+
+---
+
+✨ Passionate about building impactful digital products and continuously improving as an engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-jewel-rana-05808b273) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:js.rana0326@gmail.com) 
