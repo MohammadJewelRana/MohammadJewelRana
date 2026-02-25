@@ -47,10 +47,10 @@ I focus on writing clean, maintainable code and building systems that are optimi
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔥 GitHub Stats
+### 🔥 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=MohammadJewelRana&show_icons=true&theme=dark)
 
-### 📊 Top Languages
+### 📊 Top Languages  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadJewelRana&layout=compact&theme=dark)
 
 ---
